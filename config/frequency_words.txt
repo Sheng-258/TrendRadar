@@ -24,13 +24,19 @@ AMD
 google
 gemini
 deepmind
+!广告
+!培训
 
 chatgpt
 openai
 sora
+!广告
+!培训
 
 claude
 Anthropic
+!广告
+!培训
 
 iphone
 ipad
@@ -40,6 +46,8 @@ ios
 ai
 人工智能
 大语言模型
+!广告
+!培训
 
 自动驾驶
 
@@ -48,6 +56,8 @@ ai
 深度学习
 机器学习
 神经网络
+!广告
+!培训
 
 世界杯
 男足
